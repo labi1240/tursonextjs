@@ -1,3 +1,17 @@
+# 1.0.0 (2024-04-07)
+
+
+### Bug Fixes
+
+* redirect user to the landing page after signing out ([6e9f383](https://github.com/labi1240/tursonextjs/commit/6e9f3839daaab56dd3cf3e57287ea0f3862b8588))
+
+
+### Features
+
+* add link to the GitHub repository ([ed42176](https://github.com/labi1240/tursonextjs/commit/ed42176bdc2776cacc2c939bac45914a1ede8e51))
+* initial commit ([d58e1d9](https://github.com/labi1240/tursonextjs/commit/d58e1d97e11baa0a756bd038332eb84daf5a8327))
+* launching SaaS boilerplate for helping developers to build SaaS quickly ([7f24661](https://github.com/labi1240/tursonextjs/commit/7f246618791e3a731347dffc694a52fa90b1152a))
+
 ## [1.2.1](https://github.com/ixartz/SaaS-Boilerplate/compare/v1.2.0...v1.2.1) (2024-03-30)
 
 
